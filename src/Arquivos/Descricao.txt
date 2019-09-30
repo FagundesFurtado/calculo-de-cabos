@@ -1,0 +1,48 @@
+Condutores isolados ou cabos unipolares em eletroduto de secao circular embutido em parede termicamente isolante
+Cabo multipolar em eletroduto de secao circular embutido em parede termicamente isolante
+Condutores isolados ou cabos unipolares em eletroduto aparente de secao circular sobre parede ou espacado desta menos de 0,3 vez o diametro do eletroduto
+Cabo multipolar em eletroduto aparente de secao circular sobre parede ou espacado desta menos de 0,3 vez o diametro do eletroduto
+Condutores isolados ou cabos unipolares em eletroduto aparente de secao nao-circular sobre parede
+Cabo multipolar em eletroduto aparente de secao nao circular sobre parede
+Condutores isolados ou cabos unipolares em eletroduto de secao circular embutido em alvenaria
+Cabo multipolar em eletroduto de secao circular embutido em alvenaria
+Cabos unipolares ou cabo multipolar sobre parede ou espaçado desta menos de 0,3 vez o diametro do cabo
+Cabos unipolares ou cabo multipolar fixado diretamente no teto
+Cabos unipolares ou cabo multipolar afastado do teto mais de 0,3 vez o diametro do cabo
+Cabos unipolares ou cabo multipolar em bandeja nao perfurada, perfilado ou prateleira
+Cabos em bandeja perfurada, horizontal ou vertical (multipolar)
+Cabos em bandeja perfurada, horizontal ou vertical (unipolares)
+Cabos sobre suportes horizontais, eletrocalha aramada ou tela (multipolar)
+Cabos sobre suportes horizontais, eletrocalha aramada ou tela (unipolar)
+Cabos afastados da parede mais de 0,3 vez o diametro do cabo (multipolar)
+Cabos afastados da parede mais de 0,3 vez o diametro do cabo (unipolar)
+Cabos em leito (multipolar)
+Cabos em leito (unipolar)
+Cabos suspensos por cabo de suporte, incorporado ou nao (multipolar)
+Cabos suspensos por cabo de suporte, incorporado ou nao (unipolar)
+Condutores nus ou isolados sobre isoladores
+Cabos unipolares ou cabo multipolar em espaco de construcao
+Condutores isolados em eletroduto de secao circular em espaco de construcao
+Cabos unipolares ou cabo multipolar em eletroduto de secao circular em espaco de construcao
+Condutores isolados em eletroduto de secao nao circular em espaco de construcao
+Cabos unipolares ou cabo multipolar em eletroduto de secao nao circular em espaco de construcao
+Condutores isolados em eletroduto de secao nao circular embutido em alvenaria
+Cabos unipolares ou cabo multipolar em eletroduto de secao nao circular embutido em alvenaria
+Condutores isolados ou cabos unipolares em canaleta fechada encaixada no piso ou no solo
+Cabo multipolar em canaleta fechada encaixada no piso ou no solo
+Condutores isolados ou cabos unipolares em canaleta ou perfilado suspensa(o)
+Cabo multipolar em canaleta suspensa
+Condutores isolados ou cabos unipolares em eletroduto de secao circular contido em canaleta fechada com percurso horizontal ou vertical
+Condutores isolados em eletroduto de secao circular contido em canaleta ventilada encaixada no piso ou no solo
+Cabos unipolares ou cabo multipolar em canaleta ventilada encaixada no piso ou no solo
+Cabo multipolar embutido diretamente em parede termicamente isolante
+Cabos unipolares ou cabo multipolar embutido diretamente em alvenaria
+Cabos unipolares ou cabo multipolar embutido diretamente em alvenaria com protecao mecanica adicional
+Cabos unipolares ou cabo multipolar em eletroduto enterrado
+Cabos unipolares ou cabo multipolar diretamente enterrado sem protecao mecanica adicional
+Cabos unipolares ou cabo multipolar diretamente enterrado com protecao mecanica adicional
+Condutores isolados ou cabos unipolares em moldura
+Condutores isolados ou cabos unipolares em canaleta provida de separações sobre parede
+Cabo multipolar em canaleta provida de separações
+Condutores isolados em eletroduto, cabos unipolares ou cabo multipolar embutido em caixilho de porta
+Condutores isolados em eletroduto, cabos unipolares ou cabo multipolar embutido em caixilho de janela
